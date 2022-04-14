@@ -1,1 +1,3 @@
-# Unity_Clicker_Game
+Animal Clicker Game In Unity For Andriod
+
+I Have Only Added THe Scripts Due To Unity Packages / Rights
